@@ -8,8 +8,8 @@ CPU：i7-7700hq
 
 显卡： Intel HD Graphics 630 1536 MB 独立显卡GTX 1505Ti无法驱动 未屏蔽
 
-声卡 ALC236
+声卡： ALC236
 
-网卡 原装网卡
+网卡： 原装网卡
 
 OC版本：0.7.2
